@@ -37,11 +37,8 @@ h1:before{
     100%{
       left: -20%;
     }
-
 }  
-
-
- h1 span{
+h1 span{
     color: #ff022c;
 
  }
@@ -55,6 +52,4 @@ h1:before{
    z-index: 2;
    pointer-events: none;
    mix-blend-mode: screen;
-
-
 }
